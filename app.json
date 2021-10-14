@@ -15,15 +15,8 @@
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
-        },
-        "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
-            "none": ""
-        },
-        "APP_ID": {
-            "description": "Your API ID from my.telegram.org",
-            "notvalue": ""
         }
+        
     },
     "addons": [],
     "buildpacks": [
